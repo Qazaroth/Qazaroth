@@ -5,8 +5,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Qazaroth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/qazaroth_real]
-[<img align="left" alt="Qazaroth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/qazaroth/]
+[<img align="left" alt="Qazaroth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Qazaroth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -64,3 +64,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Qazaroth&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117ff&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qazaroth&hide_border=true&bg_color=0d1117ff&exclude_repo=MatterelloMV&langs_count=10&layout=compact&theme=dark)
+
+---
+
+[twitter]: https://twitter.com/qazaroth_real
+[instagram]: https://www.instagram.com/qazaroth/
