@@ -60,6 +60,12 @@
 [<code>
 <img alt="Windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
+[<code>
+<img alt="Kali Linux" width="26px" src="https://img.icons8.com/color/344/000000/kali-linux.png">
+</code>](https://www.kali.org/)
+[<code>
+<img alt="Ubuntu" width="26px" src="https://img.icons8.com/color/344/000000/ubuntu--v1.png">
+</code>](https://ubuntu.com/)
 
 ---
 
