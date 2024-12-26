@@ -1,7 +1,7 @@
 ### Greetings, it's Qazaroth
 
 - Learning C++ and Kali Linux
-- 2022 Goals: Improve my proficiency generally in any programming languages
+- 2024 Goal: Survive and Improve
 - I like playing games (First-person Shooters and Rhythm Games), and programming.
 
 ### Connect with me:
@@ -17,10 +17,8 @@
 
 [<img alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 ](https://code.visualstudio.com/)
-[<img alt="Visual Studio 2019" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
-](https://visualstudio.microsoft.com/downloads/)
-[<img alt="Pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-](https://www.jetbrains.com/pycharm/)
+[<img alt="VIM" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
+]([https://visualstudio.microsoft.com/downloads/](https://www.vim.org/))
 [<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 ](https://nodejs.org/en/)
 [<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
@@ -49,6 +47,8 @@
 ](https://www.microsoft.com/en-us/windows)
 [<img alt="Kali Linux" width="26px" src="https://img.icons8.com/color/344/000000/kali-linux.png">
 ](https://www.kali.org/)
+[<img alt="Arch Linux" width="26px" src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000">
+](https://archlinux.org/)
 [<img alt="Ubuntu" width="26px" src="https://img.icons8.com/color/344/000000/ubuntu--v1.png">
 ](https://ubuntu.com/)
 
