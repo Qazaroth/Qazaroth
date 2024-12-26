@@ -17,7 +17,7 @@
 
 [<img alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 ](https://code.visualstudio.com/)
-[<img alt="VIM" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
+[<img alt="VIM" width="26px" src="https://img.icons8.com/?size=100&id=LyU6IwWaREPI&format=png&color=000000" />
 ]([https://visualstudio.microsoft.com/downloads/](https://www.vim.org/))
 [<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 ](https://nodejs.org/en/)
